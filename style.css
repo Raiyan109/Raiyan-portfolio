@@ -8,8 +8,9 @@ h1{
 .rai-name-color{
     color: orange;
 }
-.first-sec{
+.flexible-container{
     display: flex;
+    margin-bottom: 150px ;
     
 }
 .excited-developer{
@@ -26,4 +27,31 @@ h1{
     color: green;
     text-decoration: none;
     font-weight: 700;
+}
+.madrasa-name{
+    
+}
+.madrasa-shadow{
+    box-shadow: 10px 10px 40px  gray;
+    width: 40% ;
+    margin-right: 5% ;
+    margin-left: 5% ;
+
+}
+#baitussalam{
+    border-left: 7px solid;
+   
+    border-image: linear-gradient(brown, black);
+    border-image-slice: 1;
+    
+}
+#jamia{
+    border-left: 7px solid;
+   
+    border-image: linear-gradient(cyan, red);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
