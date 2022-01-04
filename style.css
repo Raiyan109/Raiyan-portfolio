@@ -1,7 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 35px ;
+}
 
 .rai-name-color{
     color: orange;
+}
+.first-sec{
+    display: flex;
+    
+}
+.excited-developer{
+    width: 50% ;
+    padding: 4% ;
+}
+.excited-developer img{
+    width: 90% ;
 }
