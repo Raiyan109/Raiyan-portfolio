@@ -15,7 +15,14 @@ h1{
 .excited-developer{
     width: 50% ;
     padding: 4% ;
+    margin-bottom: 20px ;
 }
 .excited-developer img{
     width: 90% ;
+}
+.if-you-can{
+    padding: 10px ;
+    background-image: linear-gradient(yellow, purple);
+    color: green;
+    text-decoration: none;
 }
